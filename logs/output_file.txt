@@ -1,0 +1,12 @@
+The job contract with Peter Parker is signed.
+Peter Parker is programming now.
+Peter Parker earns 10000.00 USD per month.
+SoftwareDeveloper{firstName='Peter', lastName='Parker', birthDay='1988-05-26', telephoneNumber='+48700000000', email='p.parker@gmail.com', contract=EmployeeJobContract{positionName='Senior Java Developer'startDateOfContract='2024-12-23'salaryInUSDPerMonth='10000.00'}, positionName='Senior Java Developer', salaryInUSDPerMonth=10000.00, programmingLanguages=[Java]}
+CEO{firstName='Duncan', lastName='MacLeod', birthDay='1959-05-29', telephoneNumber='+48500000000', email='d.macleod@gmail.com', contract=EmployeeJobContract{positionName='CEO'startDateOfContract='2024-12-23'salaryInUSDPerMonth='50000.00'}, positionName='CEO', salaryInUSDPerMonth=50000.00}
+Staff: 2
+Peter Parker BloodType{bloodGroup=A, bloodFactor=Rh+}
+Duncan MacLeod BloodType{bloodGroup=B, bloodFactor=Rh-}
+Peter Parker A Rh+
+true
+Hi Peter
+false
